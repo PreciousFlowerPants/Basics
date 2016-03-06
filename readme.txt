@@ -1,0 +1,1 @@
+Scratch work for learning C, Scheme, and Haskell.
